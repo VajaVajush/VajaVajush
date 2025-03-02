@@ -1,4 +1,4 @@
-![cats on a window](https://github.com/user-attachments/assets/9abc8241-d770-4027-beea-8182194fea0d)
+![cats on a window600](https://github.com/user-attachments/assets/ada8abff-7547-452f-8c08-5fa7f6c704d1)
 
 <!---
 VajaVajush/VajaVajush is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
