@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ada8abff-7547-452f-8c08-5fa7f6c704d1" />
+  <img src="https://github.com/user-attachments/assets/b073a131-3fa0-440a-a236-c1bfcf4598c0" />
 </p>
 <!---
 VajaVajush/VajaVajush is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
